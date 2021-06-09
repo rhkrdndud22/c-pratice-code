@@ -302,7 +302,32 @@ namespace pratice_0609_
                     break;
                 }
             }
-            
+               //배열 문제  8번
+               Random r = new Random();
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("간단한 로또 프로그램      ");
+            Console.WriteLine("--------------------------");
+            int[] num = new int[6];
+
+            for (int i = 0; i < 6; i++)
+            {
+                int a = r.Next(45);
+                num[i] += a;
+                for (int j = 5; j >i; j--)
+                {
+                    if (num[i] == num[j])
+                    {
+                        int b = r.Next(45);
+                        num[i] = b;
+                    }
+                    else
+                    {
+                        
+                    }
+                }
+                Console.WriteLine(num[i]);
+
+            }  
 
 
         }
