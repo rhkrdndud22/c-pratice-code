@@ -1,0 +1,12 @@
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\bin\Debug\StudyObserverPattern.exe.config
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\bin\Debug\StudyObserverPattern.exe
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\bin\Debug\StudyObserverPattern.pdb
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.Form1.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.Form2.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.Form3.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.Form4.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.Properties.Resources.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.csproj.GenerateResource.cache
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.exe
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyObserverPattern\obj\Debug\StudyObserverPattern.pdb

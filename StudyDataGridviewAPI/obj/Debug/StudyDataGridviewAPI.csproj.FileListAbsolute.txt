@@ -1,0 +1,10 @@
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\bin\Debug\StudyDataGridviewAPI.exe.config
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\bin\Debug\StudyDataGridviewAPI.exe
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\bin\Debug\StudyDataGridviewAPI.pdb
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.csproj.AssemblyReference.cache
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.Form1.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.Properties.Resources.resources
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.csproj.GenerateResource.cache
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.csproj.CoreCompileInputs.cache
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.exe
+C:\Users\곽우영\Desktop\C# 문법\deligatelamda\StudyDataGridviewAPI\obj\Debug\StudyDataGridviewAPI.pdb
