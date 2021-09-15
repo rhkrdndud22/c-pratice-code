@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KakaoMapAPI", "KakaoMapAPI\KakaoMapAPI.csproj", "{4051AC64-4708-49EA-9F9C-DCB96ADFF60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4051AC64-4708-49EA-9F9C-DCB96ADFF60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4051AC64-4708-49EA-9F9C-DCB96ADFF60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4051AC64-4708-49EA-9F9C-DCB96ADFF60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4051AC64-4708-49EA-9F9C-DCB96ADFF60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4218F004-F9A5-40C4-8C85-3EDA20567AA2}
+	EndGlobalSection
+EndGlobal

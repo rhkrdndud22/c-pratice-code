@@ -1,0 +1,10 @@
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\bin\Debug\KakaoMapAPI.exe.config
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\bin\Debug\KakaoMapAPI.exe
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\bin\Debug\KakaoMapAPI.pdb
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.csproj.AssemblyReference.cache
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.Form1.resources
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.Properties.Resources.resources
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.csproj.GenerateResource.cache
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.exe
+C:\Users\곽우영\Desktop\C# 문법\KakaoMapAPI\KakaoMapAPI\obj\Debug\KakaoMapAPI.pdb
